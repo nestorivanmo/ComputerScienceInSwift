@@ -2,4 +2,4 @@
 Take a close look at some Computer Science problems written in Swift. 
 
 
-Based on Classic Computer Science Problems in Swift by [@davecom](https://github.com/davecom/ClassicComputerScienceProblemsInSwift)
+Based on the book Classic Computer Science Problems in Swift by [@davecom](https://github.com/davecom/ClassicComputerScienceProblemsInSwift)
